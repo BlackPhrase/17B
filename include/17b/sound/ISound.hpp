@@ -7,4 +7,7 @@ struct iSound
 {
 	///
 	virtual iSoundWorld *CreateWorld() = 0;
+	
+	///
+	virtual iSoundWorld *DestroyWorld(iSoundWorld *apWorld) = 0;
 };
