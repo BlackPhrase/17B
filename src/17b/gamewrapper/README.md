@@ -1,0 +1,1 @@
+**NOTE:** You need to compile this module with MSVC compiler! Otherwise it won't work!
